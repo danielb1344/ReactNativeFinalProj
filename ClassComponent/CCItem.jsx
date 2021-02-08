@@ -9,6 +9,7 @@ export default class CCItem extends Component {
                 <Text>yes </Text>
                 <Text>no </Text>
                 <Text>ben </Text>
+                <Text>bennnnnnn </Text>
             </View>
         )
     }
