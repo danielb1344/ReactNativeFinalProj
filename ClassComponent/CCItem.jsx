@@ -5,7 +5,9 @@ export default class CCItem extends Component {
     render() {
         return (
             <View>
-                <Text> hey gay </Text>
+                <Text> hey gay !!ewifh</Text>
+                <Text>yes </Text>
+                <Text>no </Text>
             </View>
         )
     }
