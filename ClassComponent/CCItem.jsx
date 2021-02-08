@@ -8,6 +8,7 @@ export default class CCItem extends Component {
                 <Text> hey gay !!ewifh</Text>
                 <Text>yes </Text>
                 <Text>no </Text>
+                <Text>ben </Text>
             </View>
         )
     }
